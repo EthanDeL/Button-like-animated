@@ -1,8 +1,8 @@
 # Button like animated
 
-An interactive, animated “Like” button developed with HTML, CSS and JavaScript. This project showcases modern visual effects and fluid interactivity, offering an excellent opportunity for developers wishing to enhance their skills and integrate dynamic elements into their web projects.
+An interactive, animated “Like” button developed with HTML, CSS and JavaScript. This project showcases modern visual effects and fluid interactivity, offering an excellent opportunity for developers wishing to enhance their skills and integrate dynamic elements into their web project.
 
-<img width="739" alt="preview" src="https://github.com/user-attachments/assets/020d410b-2ff1-4bca-8b64-079bed670b33">
+<img width="551" alt="preview" src="https://github.com/user-attachments/assets/090320a2-5530-4996-ae3b-cd6364611a45">
 
 ## Features
 
